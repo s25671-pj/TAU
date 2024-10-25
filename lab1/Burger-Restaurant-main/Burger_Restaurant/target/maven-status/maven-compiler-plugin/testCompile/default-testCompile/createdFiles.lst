@@ -1,0 +1,6 @@
+burgers\Burger_Restaurant\BurgerRestaurantApplicationTests.class
+burgers\Burger_Restaurant\Food\BurgerTest.class
+burgers\Burger_Restaurant\Order\OrderIntegrationTest.class
+burgers\Burger_Restaurant\Food\ToppingTest.class
+burgers\Burger_Restaurant\Order\OrderTest.class
+burgers\Burger_Restaurant\Food\ExtrasTest.class

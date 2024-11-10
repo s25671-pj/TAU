@@ -1,2 +1,0 @@
-# TAU
-Zadania z TAU

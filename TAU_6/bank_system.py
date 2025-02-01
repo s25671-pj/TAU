@@ -1,4 +1,3 @@
-# bank_system.py
 import asyncio
 
 class InsufficientFundsError(Exception):
